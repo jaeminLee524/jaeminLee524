@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
+ 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaeminLee&fontSize=90)
 
-<div align=center>
-
+ 
 ## 🌹 t e c h 🌹
 
 
