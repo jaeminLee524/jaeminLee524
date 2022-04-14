@@ -1,12 +1,9 @@
-<!--
-**jaeminLee524/jaeminLee524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaeminLee&fontSize=90)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 📝 My Portfolio: <https://www.notion.so/Jaemin-2cc91dd4a7dd4e11aea5af81752b62f2>
+- 🌱 I’m currently learning: MSA Architect
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m interested in `OOP`, `JAVA`
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -14,7 +11,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaeminLee&fontSize=90)
+
 
  
 ## 🌹 t e c h 🌹
