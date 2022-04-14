@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaeminLee&fontSize=90)
 
  ### I 🖤 Code, everyday i'm tring
-- 📝 My Portfolio: [![Notion]](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=black)](https://www.notion.so/Jaemin-2cc91dd4a7dd4e11aea5af81752b62f2)
+- 📝 My Portfolio: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=black)](https://www.notion.so/Jaemin-2cc91dd4a7dd4e11aea5af81752b62f2)
 - 🌱 I’m currently learning: MSA Architect
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m interested in `OOP`, `JAVA`
