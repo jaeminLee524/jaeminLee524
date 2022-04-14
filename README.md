@@ -1,6 +1,7 @@
 <div align=center>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaeminLee&fontSize=90)
 
+ <div align=left>
  ### I 🖤 Code, everyday i'm tring
 - 📝 My Portfolio: <https://www.notion.so/Jaemin-2cc91dd4a7dd4e11aea5af81752b62f2>
 - 🌱 I’m currently learning: MSA Architect
