@@ -5,7 +5,7 @@
 - 📝 My Portfolio: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Jaemin-2cc91dd4a7dd4e11aea5af81752b62f2)
 - 🌱 I’m currently learning: MSA Architect
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m interested in `OOP`, `JAVA`
+- 🤔 I’m interested in: `OOP`, `JAVA`
 
 
  
@@ -14,8 +14,7 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]() 
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)]() 
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
-<!-- [![React](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)]() -->
-[![React](https://img.shields.io/badge/React%20?style=flat-square&logo=React&logoColor=black)]()
+[![React](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)]()
 <br>
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]() 
