@@ -4,7 +4,7 @@
  ### I 🖤 Code, everyday i'm tring
 - 📝 My Portfolio: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Jaemin-2cc91dd4a7dd4e11aea5af81752b62f2)
 - 🌱 I’m currently learning: MSA Architect
-- 👯 I’m looking to collaborate on ...
+<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m interested in `OOP`, `JAVA`
 
 
