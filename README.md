@@ -1,37 +1,15 @@
-<!-- <div align=center> -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaeminLee&fontSize=90)
 
- ### I 🖤 Code, everyday i'm tring
-- 📝 My Portfolio: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Jaemin-2cc91dd4a7dd4e11aea5af81752b62f2)
-- 🌱 I’m currently learning: MSA Architect
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m interested in: `OOP`, `JAVA`
+## README
 
+- 🚀 I'm a backend developer who strives for clean code and enjoys developing backend systems with my colleagues.
+- 🌱 I'm currently learning Back-end and DevOps
+- 📝 I regularly write articles on [MY BLOG](https://velog.io/@jaymin_e/posts/)
+- This is my email 👉  fkdlem524@naver.com
 
- 
-## 🌹 t e c h 🌹
+### Articles
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]() 
-[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)]() 
-[![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
-[![React](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)]()
-<br>
-
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]() 
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
-<br>
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]() 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)]() 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)]()
-
-
-## 💫 m e 
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:one.fkdlem524@naver.com)
-
-
-## 💌  t o d a y 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoowon0220&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br><br><br><br><br>
-
-</div>
+- [2024.04.25 - [Redis] Cluster Topology 설정](https://velog.io/@jaymin_e/Redis-Cluster-Topology-%EC%84%A4%EC%A0%95) <br/>
+- [2024.04.21 - [디자인 패턴] 퍼사드 패턴(Facade Pattern)](https://velog.io/@jaymin_e/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%ED%8D%BC%EC%82%AC%EB%93%9C-%ED%8C%A8%ED%84%B4Facade-Pattern) <br/>
+- [2024.04.20 - [Spring] Async ThreadPool의 오해](https://velog.io/@jaymin_e/Spring-Async-ThreadPool%EC%9D%98-%EC%98%A4%ED%95%B4) <br/>
+- [2024.04.14 - [디자인패턴] 전략 패턴(Strategy Pattern)](https://velog.io/@jaymin_e/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%A0%84%EB%9E%B5-%ED%8C%A8%ED%84%B4Strategy-Pattern) <br/>
+- [2024.04.13 - [Redis] 캐시 전략](https://velog.io/@jaymin_e/Redis-%EC%BA%90%EC%8B%9C-%EC%A0%84%EB%9E%B5) <br/>
