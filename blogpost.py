@@ -2,7 +2,7 @@ import feedparser, time
 
 URL="https://v2.velog.io/rss/jaymin_e"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=5
+MAX_POST=10
 
 markdown_text = """
 ## README
