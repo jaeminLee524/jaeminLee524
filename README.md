@@ -8,6 +8,7 @@
 
 ### Articles
 
+- [2024.07.02 - 덤프 오답 정리](https://velog.io/@jaymin_e/%EB%8D%A4%ED%94%84-%EC%98%A4%EB%8B%B5-%EC%A0%95%EB%A6%AC) <br/>
 - [2024.06.22 - [AWS SAA-C03] AWS 보안 및 암호화](https://velog.io/@jaymin_e/AWS-SAA-C03-AWS-%EB%B3%B4%EC%95%88-%EB%B0%8F-%EC%95%94%ED%98%B8%ED%99%94) <br/>
 - [2024.06.20 - [AWS SAA-C03] AWS 모니터링 및 감시](https://velog.io/@jaymin_e/AWS-SAA-C03-AWS-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%8F-%EA%B0%90%EC%8B%9C) <br/>
 - [2024.06.20 - [AWS SAA-C03] 머신 러닝](https://velog.io/@jaymin_e/AWS-SAA-C03-%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D) <br/>
@@ -17,4 +18,3 @@
 - [2024.06.15 - [AWS SAA-C03] 서버리스](https://velog.io/@jaymin_e/AWS-SAA-C03-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4) <br/>
 - [2024.06.14 - [AWS SAA-C03] AWS의 컨테이너](https://velog.io/@jaymin_e/AWS-SAA-C03-AWS%EC%9D%98-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88) <br/>
 - [2024.06.13 - [AWS SAA-C03] 디커플링 애플리케이션](https://velog.io/@jaymin_e/AWS-SAA-C03-%EB%94%94%EC%BB%A4%ED%94%8C%EB%A7%81-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98) <br/>
-- [2024.06.11 - [AWS SAA-C03] AWS 스토리지 추가 기능](https://velog.io/@jaymin_e/AWS-SAA-C03-AWS-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%B6%94%EA%B0%80-%EA%B8%B0%EB%8A%A5) <br/>
