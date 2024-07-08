@@ -8,6 +8,7 @@
 
 ### Articles
 
+- [2024.07.07 - AWS VPC와 네트워크 선수 지식](https://velog.io/@jaymin_e/AWS-VPC%EC%99%80-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%A0%EC%88%98-%EC%A7%80%EC%8B%9D) <br/>
 - [2024.07.04 - AWS Certified Solutions Architect - Associate(SAA-C03) 취득 후기](https://velog.io/@jaymin_e/AWS-Certified-Solutions-Architect-AssociateSAA-C03-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0) <br/>
 - [2024.07.02 - 덤프 오답 정리](https://velog.io/@jaymin_e/%EB%8D%A4%ED%94%84-%EC%98%A4%EB%8B%B5-%EC%A0%95%EB%A6%AC) <br/>
 - [2024.06.22 - [AWS SAA-C03] AWS 보안 및 암호화](https://velog.io/@jaymin_e/AWS-SAA-C03-AWS-%EB%B3%B4%EC%95%88-%EB%B0%8F-%EC%95%94%ED%98%B8%ED%99%94) <br/>
@@ -17,4 +18,3 @@
 - [2024.06.18 - [AWS SAA-C03] AWS의 데이터베이스](https://velog.io/@jaymin_e/AWS-SAA-C03-AWS%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4) <br/>
 - [2024.06.17 - 메인 페이지 코드 복잡도 개선하기](https://velog.io/@jaymin_e/%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%BD%94%EB%93%9C-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0) <br/>
 - [2024.06.15 - [AWS SAA-C03] 서버리스](https://velog.io/@jaymin_e/AWS-SAA-C03-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4) <br/>
-- [2024.06.14 - [AWS SAA-C03] AWS의 컨테이너](https://velog.io/@jaymin_e/AWS-SAA-C03-AWS%EC%9D%98-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88) <br/>
